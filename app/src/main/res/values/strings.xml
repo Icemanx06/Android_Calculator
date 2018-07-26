@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+
+    <!--Első Activity Összeadás-->
+    <string name="elso_szam_txt">Első szám:</string>
+    <string name="masodik_szam_txt">Második szám:</string>
+    <string name="osszeadas_button">Összeadás</string>
+    <string name="kivonas_button">Kivonás</string>
+    <string name="szorzas_button">Szorzás</string>
+    <string name="osztas_button">Osztás</string>
+    <string name="eredmeny_title">A számítás eredménye: ???</string>
+    <!--Első Activity Összeadás-->
+
+
+</resources>
